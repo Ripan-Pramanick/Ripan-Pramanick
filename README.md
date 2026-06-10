@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Ripan Pramanik
 
-<!--
-**Ripan-Pramanick/Ripan-Pramanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Next.js
+- Node.js
+- Express.js
+- TypeScript
+- Supabase
+- Tailwind CSS
+
+## 🌟 Featured Projects
+
+### Compressora
+Privacy-first image and PDF processing toolkit.
+
+🔗 https://compressora.vercel.app
+
+### Kaal Chakra
+Full-stack astrology platform with birth chart generation and PDF reports.
+
+🔗 https://kaalchakraa.vercel.app
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/ripan-pramanik
